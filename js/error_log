@@ -1,0 +1,6 @@
+[12-Nov-2021 01:04:13 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/methologik/imdady.com/js/brand-details.php on line 36
+[12-Nov-2021 01:04:13 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/methologik/imdady.com/js/brand-details.php on line 36
+[12-Nov-2021 01:04:13 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/methologik/imdady.com/js/brand-details.php on line 36
+[12-Nov-2021 01:04:13 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/methologik/imdady.com/js/brand-details.php on line 179
+[12-Nov-2021 01:04:13 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/methologik/imdady.com/js/brand-details.php on line 179
+[12-Nov-2021 01:04:13 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/methologik/imdady.com/js/brand-details.php on line 179
